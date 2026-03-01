@@ -51,7 +51,7 @@ This dashboard provides a 360-degree view of the business ecosystem, focusing on
 ---
 
 ## Tech Stack & Tools
-- **Data Visualization**: Power BI / Tableau / Excel  
+- **Data Visualization**: Excel  
 - **Data Source**: Fintech Transaction Logs & User Engagement Databases  
 - **Analysis**: Temporal trends, Geospatial mapping, and Segmented Profitability analysis  
 
